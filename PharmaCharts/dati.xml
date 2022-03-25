@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Farmaci>
+    <Compresse>
+        <Nome>Tachipirina 500Mg</Nome>
+        <Marca>Angelini</Marca>
+        <Vendite>
+            <Vendite2018>53400</Vendite2018>
+            <Vendite2019>52950</Vendite2019>
+            <Vendite2020>51900</Vendite2020>
+            <Vendite2021>53990</Vendite2021>
+        </Vendite>
+        <Comp>30</Comp>
+        <PrezzoComp>0.1</PrezzoComp>
+    </Compresse>
+    <Flacone>
+        <Nome>Vicks Sinex</Nome>
+        <Marca>Vicks</Marca>
+        <Vendite>
+            <Vendite2018>43758</Vendite2018>
+            <Vendite2019>44809</Vendite2019>
+            <Vendite2020>42915</Vendite2020>
+            <Vendite2021>43955</Vendite2021>
+        </Vendite>
+        <Ml>15</Ml>
+        <PrezzoMl>0.68</PrezzoMl>
+    </Flacone>
+    <Compresse>
+        <Nome>Aspirina Dolore Infiammazione</Nome>
+        <Marca>Bayer</Marca>
+        <Vendite>
+            <Vendite2018>51702</Vendite2018>
+            <Vendite2019>51205</Vendite2019>
+            <Vendite2020>51702</Vendite2020>
+            <Vendite2021>51822</Vendite2021>
+        </Vendite>
+        <Comp>20</Comp>
+        <PrezzoComp>0.4</PrezzoComp>
+    </Compresse>
+    <Compresse>
+        <Nome>Moment Act 400Mg Ibuprofene</Nome>
+        <Marca>Bayer</Marca>
+        <Vendite>
+            <Vendite2018>31702</Vendite2018>
+            <Vendite2019>31397</Vendite2019>
+            <Vendite2020>30646</Vendite2020>
+            <Vendite2021>30695</Vendite2021>
+        </Vendite>
+        <Comp>20</Comp>
+        <PrezzoComp>0.67</PrezzoComp>
+    </Compresse>
+    <Flacone>
+        <Nome>Bisolvon Linctus</Nome>
+        <Marca>Boehringer Ingelheim</Marca>
+        <Vendite>
+            <Vendite2018>20173</Vendite2018>
+            <Vendite2019>20217</Vendite2019>
+            <Vendite2020>20172</Vendite2020>
+            <Vendite2021>20520</Vendite2021>
+        </Vendite>
+        <Ml>250</Ml>
+        <PrezzoMl>0.04</PrezzoMl>
+    </Flacone>
+    <Flacone>
+        <Nome>Fluifort</Nome>
+        <Marca>Dompè</Marca>
+        <Vendite>
+            <Vendite2018>20400</Vendite2018>
+            <Vendite2019>29999</Vendite2019>
+            <Vendite2020>21523</Vendite2020>
+            <Vendite2021>20697</Vendite2021>
+        </Vendite>
+        <Ml>200</Ml>
+        <PrezzoMl>0.05</PrezzoMl>
+    </Flacone>
+    <Compresse>
+        <Nome>Buscopan</Nome>
+        <Marca>Sanofi</Marca>
+        <Vendite>
+            <Vendite2018>20211</Vendite2018>
+            <Vendite2019>25923</Vendite2019>
+            <Vendite2020>20153</Vendite2020>
+            <Vendite2021>28057</Vendite2021>
+        </Vendite>
+        <Comp>30</Comp>
+        <PrezzoComp>0.33</PrezzoComp>
+    </Compresse>
+    <Compresse>
+        <Nome>Abilify 5Mg</Nome>
+        <Marca>Bristol-Myers Squibb</Marca>
+        <Vendite>
+            <Vendite2018>10211</Vendite2018>
+            <Vendite2019>19999</Vendite2019>
+            <Vendite2020>15923</Vendite2020>
+            <Vendite2021>10400</Vendite2021>
+        </Vendite>
+        <Comp>28</Comp>
+        <PrezzoComp>0.75</PrezzoComp>
+    </Compresse>
+</Farmaci>

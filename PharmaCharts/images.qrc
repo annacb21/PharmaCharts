@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/linechart.png</file>
+        <file>images/piechart.png</file>
+        <file>images/remove.png</file>
+        <file>images/scatterchart.png</file>
+        <file>images/update.png</file>
+        <file>images/barchart.png</file>
+    </qresource>
+</RCC>
